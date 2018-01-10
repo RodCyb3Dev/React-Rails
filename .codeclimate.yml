@@ -2,5 +2,5 @@ version: '2'
 exclude_patterns:
 - lib/assets/
 - react-builds/
-- react_ujs/dist/
+- react_hybrid/dist/
 - test/
