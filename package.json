@@ -1,0 +1,19 @@
+{
+  "name": "react_hybrid",
+  "version": "2.4.3",
+  "description": "Rails hybrid for the react-rails gem",
+  "main": "react_hybrid/index.js",
+  "files": [
+    "react_ujs"
+  ],
+  "repository": "https://github.com/Rodcode47/React-Rails",
+  "scripts": {
+    "build": "cd react_hybrid && webpack"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  },
+  "dependencies": {
+    "react_ujs": "^2.4.2"
+  }
+}
